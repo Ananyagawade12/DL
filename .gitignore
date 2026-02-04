@@ -1,0 +1,14 @@
+# Datasets
+data/
+datasets/
+
+# Models
+*.h5
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
